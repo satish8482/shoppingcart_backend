@@ -1,0 +1,10 @@
+{
+    "development":{
+        "PORT":3000, 
+       "MONGODB_URL":"mongodb://newuser:newuser123@ds159782.mlab.com:59782/meanstackdb"
+       },
+    "production":{
+        "PORT":80,
+        "MONGODB_URL":"mongodb://xxxxx/proddb"
+    }
+}
